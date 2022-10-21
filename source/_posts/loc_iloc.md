@@ -2,7 +2,7 @@
 title: "loc 와 iloc 의 차이 "
 author: "Young Jae Kim"
 date: '2022-03-16'
-category: Pandas
+category: 데이터분석
 ---
 
 

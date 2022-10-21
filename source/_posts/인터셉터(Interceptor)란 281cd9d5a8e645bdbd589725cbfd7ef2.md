@@ -5,7 +5,7 @@ date: '2022-08-06'
 output:
   html_document:
     keep_md: true
-category: SpringBoot
+category: 자바
 
 ---
 

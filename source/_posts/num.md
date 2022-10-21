@@ -3,7 +3,7 @@
 title: "넘파이 기초"
 author: "Young Jae Kim"
 date: '2022-03-23'
-category: numpy
+category: 데이터분석
 --- 
 
 # Numpy 라이브러리 불러오기 

@@ -3,7 +3,7 @@
 title: "AOP "
 author: "Young Jae Kim"
 date: '2022-08-06'
-category: SpringBoot
+category: 자바
 ---
 # AOP(Aspect Oriented Programming)
 

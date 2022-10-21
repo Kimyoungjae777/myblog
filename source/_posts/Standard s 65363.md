@@ -5,7 +5,7 @@ date: '2022-03-15'
 output:
   html_document:
     keep_md: true
-category: -전처리
+category: 데이터분석
 
 ---
 

@@ -2,7 +2,7 @@
 title: "pandas 의 broadcastiong "
 author: "Young Jae Kim"
 date: '2022-03-16'
-category: Pandas
+category: 데이터분석
 ---
 
 
