@@ -2,7 +2,7 @@
 title: "Spring과SpringBoot의 차이"
 author: "Young Jae Kim"
 date: '2022-03-19'
-category: 자바
+category: SpringBoot
 
 ---
 
