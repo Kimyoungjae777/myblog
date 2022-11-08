@@ -8,7 +8,7 @@ output:
 category: 자바
 
 ---
-
+![Untitled](images/interceptor/interceptor.png)
 
 # 인터셉터(Interceptor)란?
 

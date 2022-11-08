@@ -5,7 +5,7 @@ author: "Young Jae Kim"
 date: '2022-03-23'
 category: 데이터분석
 --- 
-
+![Untitled](images/numpy/numpy.png)
 # Numpy 라이브러리 불러오기 
 
 

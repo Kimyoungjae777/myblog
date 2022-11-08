@@ -1,11 +1,13 @@
 
 ---
-title: "Spring과SpringBoot의 차이"
+title: "camelCase와snake_case의 차이"
 author: "Young Jae Kim"
 date: '2022-11-09'
 category: 자바
 
 ---
+![Untitled](images/camelcase/camel.png)
+
 # Camel_case VS Snake_case
 
 1. 카멜 케이스 표기법 (camelCase)

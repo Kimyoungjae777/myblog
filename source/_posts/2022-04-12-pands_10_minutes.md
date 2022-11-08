@@ -4,7 +4,7 @@ author: "Young Jae Kim"
 date: '2022-03-16'
 category: 데이터분석
 ---
-
+![Untitled](images/pandas/pandas.png)
 <head>
   <style>
     table.dataframe {
