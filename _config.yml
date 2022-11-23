@@ -7,7 +7,11 @@ title: 영재의 개발일지
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+logo:
+        width: 130
+        height: 70
+        url: images/logo-header.png
+author: KimYoungJae
 language: en
 timezone: ''
 
