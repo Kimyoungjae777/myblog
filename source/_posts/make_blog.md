@@ -2,7 +2,12 @@
 title: "깃 블로그와 연동하기"
 author: "Young Jae Kim"
 date: '2022-03-16'
-category: git_blog
+categories: 
+- Development
+- gitBlog
+tags:
+- Development
+- gitBlog
 ---
 
 

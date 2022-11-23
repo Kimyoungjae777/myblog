@@ -5,8 +5,12 @@ date: '2022-03-15'
 output:
   html_document:
     keep_md: true
-category: -통계
-
+categories:
+- Machinelearning
+- 통계
+tags:
+- Machinelearning
+- 통계
 ---
 
 # 분석방법

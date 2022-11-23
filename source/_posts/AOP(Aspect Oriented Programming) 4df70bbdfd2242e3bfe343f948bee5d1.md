@@ -3,7 +3,12 @@
 title: "AOP "
 author: "Young Jae Kim"
 date: '2022-08-06'
-category: 자바
+categories: 
+- Development
+- 기본개념
+tags:
+- Development
+- 기본개념
 ---
 # AOP(Aspect Oriented Programming)
 

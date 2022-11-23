@@ -5,7 +5,12 @@ date: '2022-11-17'
 output:
   html_document:
     keep_md: true
-category: SpringBoot
+categories: 
+- Development
+- 기본개념
+tags:
+- Development
+- 기본개념
 
 ---
 

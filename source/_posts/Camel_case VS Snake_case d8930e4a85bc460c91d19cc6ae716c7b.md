@@ -3,7 +3,12 @@
 title: "camelCase와snake_case의 차이"
 author: "Young Jae Kim"
 date: '2022-11-09'
-category: 자바
+categories: 
+- Development
+- 기본개념
+tags:
+- Development
+- 기본개념
 
 ---
 ![Untitled](images/camelcase/camel.png)

@@ -5,7 +5,12 @@ date: '2022-08-06'
 output:
   html_document:
     keep_md: true
-category: 자바
+categories: 
+- Development
+- 기본개념
+tags:
+- Development
+- 기본개념
 
 ---
 ![Untitled](images/interceptor/interceptor.png)

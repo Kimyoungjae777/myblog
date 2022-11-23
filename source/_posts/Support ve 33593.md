@@ -5,7 +5,13 @@ date: '2022-03-15'
 output:
   html_document:
     keep_md: true
-category: -Machinelearning
+categories:
+- Machinelearning
+- 알고리즘
+tags:
+- Machinelearning
+- 알고리즘
+
 
 ---
 

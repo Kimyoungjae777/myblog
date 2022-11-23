@@ -3,7 +3,12 @@
 title: "깃허브 자료올리기"
 author: "Young Jae Kim"
 date: '2022-03-19'
-category: git_blog
+categories: 
+- Development
+- gitBlog
+tags:
+- Development
+- gitBlog
 
 ---
 

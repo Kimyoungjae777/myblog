@@ -2,7 +2,12 @@
 title: "Spring과SpringBoot의 차이"
 author: "Young Jae Kim"
 date: '2022-03-19'
-category: SpringBoot
+categories: 
+- Development
+- 기본개념
+tags:
+- Development
+- 기본개념
 
 ---
 
