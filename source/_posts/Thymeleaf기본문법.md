@@ -6,10 +6,10 @@ output:
   html_document:
     keep_md: true
 categories: 
-- SpringBoot
+- Development
 - 기본개념
 tags:
-- SpringBoot
+- Development
 - 기본개념
 
 ---
