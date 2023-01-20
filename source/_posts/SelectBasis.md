@@ -1,7 +1,7 @@
 ---
 title: "Select Basis"
 author: "Young Jae Kim"
-date: '2022-12-28'
+date: '2023-1-20'
 categories: 
 - Development
 - SqlZoo
