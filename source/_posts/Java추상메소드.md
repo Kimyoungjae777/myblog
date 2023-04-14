@@ -1,3 +1,15 @@
+---
+title: "java 추상메소드"
+author: "Young Jae Kim"
+date: '2022-12-28'
+categories: 
+- Development
+- 기본개념
+tags:
+- Development
+- 기본개념
+
+---
 # JAVA 추상메소드
 
 추상메서드는 빈 껍데기 이다. ⇒ 선언은 되어있는데, 코드가 구현이 안되어있는 것
